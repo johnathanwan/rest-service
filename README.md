@@ -1,2 +1,2 @@
 # rest-service
-kotlin version of spring boot guide: https://spring.io/guides/gs/rest-service/
+kotlin version with gradle of spring boot guide: https://spring.io/guides/gs/rest-service/
